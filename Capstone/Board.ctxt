@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ GameOfLife\r\n\ \r\n\ @post\ \ \ \ the\ game\ will\ be\ initialized\ and\ populated\ with\ the\ initial\ state\ of\ cells\r\n\ \r\n
+comment1.params=
+comment1.target=void\ populateGame()
+comment1.text=\r\n\ Creates\ the\ actors\ and\ inserts\ them\ into\ their\ initial\ starting\ positions\ in\ the\ grid\r\n\r\n\ @pre\ \ \ \ \ the\ grid\ has\ been\ created\r\n\ @post\ \ \ \ all\ actors\ that\ comprise\ the\ initial\ state\ of\ the\ game\ have\ been\ added\ to\ the\ grid\r\n\ \r\n
+comment2.params=piece
+comment2.target=void\ remove(Piece)
+comment3.params=
+comment3.target=void\ makeMove()
+comment4.params=
+comment4.target=info.gridworld.grid.Grid\ getGrid()
+comment4.text=\r\n\ Returns\ the\ grid\ \r\n\r\n\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
